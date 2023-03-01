@@ -1,0 +1,2 @@
+com.wgilooy.config.autoConfiguation.DispatcherServletConfig
+com.wgilooy.config.autoConfiguation.TomcatServletWebConfig

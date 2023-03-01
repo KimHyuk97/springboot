@@ -1,5 +1,7 @@
 package com.wgilooy.spring;
 
+import com.wgilooy.spring.hello.HelloDecorator;
+import com.wgilooy.spring.hello.SimpleHelloService;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 

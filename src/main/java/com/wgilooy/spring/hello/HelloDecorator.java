@@ -1,4 +1,4 @@
-package com.wgilooy.spring;
+package com.wgilooy.spring.hello;
 
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Service;

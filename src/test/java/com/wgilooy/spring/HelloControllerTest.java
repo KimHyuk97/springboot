@@ -1,5 +1,6 @@
 package com.wgilooy.spring;
 
+import com.wgilooy.spring.hello.HelloController;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 
